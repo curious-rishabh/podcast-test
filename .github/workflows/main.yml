@@ -12,4 +12,3 @@ jobs:
 
       - name: Run Feed Generator
         uses: curious-rishabh/podcast-generator@main
-# curios-rishabh
